@@ -1,4 +1,4 @@
-# OOPS_HASHTAG — Hashtag Tracking & Social Media Management System
+# Hashtag Tracking & Social Media Management System
 
 A console-based Java application that simulates a simplified social media platform, focused on **user management, posts/announcements, and hashtag analytics**. Built as an academic project to demonstrate core Object-Oriented Programming (OOP) principles — encapsulation, inheritance, abstraction, and polymorphism — through a real-world style system.
 
